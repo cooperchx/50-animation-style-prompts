@@ -1,4 +1,6 @@
-# Animation Style Prompts · 50 种 AI 动画美学
+# 50 种 AI 动画美学 · Animation Style Prompts
+
+**简体中文** | [English](README.en.md)
 
 说出动画风格，直接获得提示词；描述用途和视觉偏好，获得风格推荐及提示词。每种风格包含画面参考和中英文通用美学提示词。**来源：网络。**
 
@@ -7,7 +9,7 @@
 需要 Node.js / npm 和支持 Agent Skills 的 AI 助手。安装到全局，供工具发现与调用：
 
 ```bash
-npx skills add cooperchx/animation-style-prompts --skill animation-style-prompts -g -y
+npx skills add cooperchx/animation-style-prompts-50 --skill animation-style-prompts -g -y
 ```
 
 也可以把 [skills/animation-style-prompts](skills/animation-style-prompts) 整个文件夹放入你的助手支持的 skills 目录。

@@ -1,5 +1,5 @@
 interface:
-  display_name: "50 种动画美学提示词"
+  display_name: "50 Animation Styles · 动画美学提示词"
   short_description: "按风格名直接获得提示词，或按需求推荐动画风格，附画面参考与中英文模板"
   default_prompt: "使用 $animation-style-prompts，根据我指定的动画风格或创作需求给出可直接使用的提示词。"
 policy:
