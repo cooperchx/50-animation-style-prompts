@@ -9,7 +9,7 @@ Name an animation style to get ready-to-use prompts, or describe your project to
 Requires Node.js / npm and an AI assistant that supports Agent Skills. Install globally so your assistant can discover and invoke the skill:
 
 ```bash
-npx skills add cooperchx/animation-style-prompts-50 --skill animation-style-prompts -g -y
+npx skills add cooperchx/50-animation-style-prompts --skill animation-style-prompts -g -y
 ```
 
 Alternatively, copy the entire [skills/animation-style-prompts](skills/animation-style-prompts) folder into your assistant's supported skills directory.

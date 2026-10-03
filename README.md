@@ -9,7 +9,7 @@
 需要 Node.js / npm 和支持 Agent Skills 的 AI 助手。安装到全局，供工具发现与调用：
 
 ```bash
-npx skills add cooperchx/animation-style-prompts-50 --skill animation-style-prompts -g -y
+npx skills add cooperchx/50-animation-style-prompts --skill animation-style-prompts -g -y
 ```
 
 也可以把 [skills/animation-style-prompts](skills/animation-style-prompts) 整个文件夹放入你的助手支持的 skills 目录。
